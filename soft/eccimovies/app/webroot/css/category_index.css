@@ -1,0 +1,54 @@
+.tab {
+	padding-left: 10%;
+}
+
+table {
+	width:80%;
+	margin:auto;
+	color: #CCC;
+	text-align: center;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+td, th { 
+    padding:5px; 
+}
+thead {
+	background-color:#D94119;
+}
+
+.izq {
+	text-align: left;
+	width: 80%;
+}
+#cat {
+background-color:#111;
+cursor:pointer;
+}
+
+#sub {
+background-color:#222;
+}
+
+.categoria {
+	display: inline-block;
+	width: 30%;
+}
+
+.tabulada {
+	display: inline-block;
+	width: 10%;
+	text-align: center;
+}
+
+.sinpunto {
+	list-style-type: none;
+}
+
+.caja {
+	width: 35em;
+	text-align: center;
+	margin: 0 auto;
+	padding: 20 px;
+}
